@@ -1,4 +1,4 @@
-### Olá! Eu sou a Waney Martins
+### Oiii! Eu sou a Waney Martins
 
 <div align="center">
   <a href="https://github.com/waneymartinsM">
@@ -21,5 +21,8 @@
   <a href="https://wa.me/5538988190693?text=Ol%C3%A1%20Waney,%20encontrei%20seu%20contato%20no%20GitHub!" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" target="_blank"></a>
   <a href = "mailto:waneymartins2003@hotmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/waney-martins-838169231/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  
+  ![Snake animation](https://github.com/waneymartinsM/waneymartinsM/blob/output/github-contribution-grid-snake.svg)
+  
   </div>
     
